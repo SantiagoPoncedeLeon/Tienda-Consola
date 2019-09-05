@@ -1,0 +1,21 @@
+C:\Users\Santi\source\repos\TpIntegrador\TpIntegrador\obj\Debug\TpIntegrador.csprojAssemblyReference.cache
+C:\Users\Santi\source\repos\TpIntegrador\TpIntegrador\obj\Debug\TpIntegrador.csproj.CoreCompileInputs.cache
+C:\Users\Santi\source\repos\TpIntegrador\TpIntegrador\bin\Debug\TpIntegrador.exe.config
+C:\Users\Santi\source\repos\TpIntegrador\TpIntegrador\bin\Debug\TpIntegrador.exe
+C:\Users\Santi\source\repos\TpIntegrador\TpIntegrador\bin\Debug\TpIntegrador.pdb
+C:\Users\Santi\source\repos\TpIntegrador\TpIntegrador\obj\Debug\TpIntegrador.exe
+C:\Users\Santi\source\repos\TpIntegrador\TpIntegrador\obj\Debug\TpIntegrador.pdb
+C:\Users\mar_v\Downloads\TpIntegrador\bin\Debug\TpIntegrador.exe.config
+C:\Users\mar_v\Downloads\TpIntegrador\bin\Debug\TpIntegrador.exe
+C:\Users\mar_v\Downloads\TpIntegrador\bin\Debug\TpIntegrador.pdb
+C:\Users\mar_v\Downloads\TpIntegrador\obj\Debug\TpIntegrador.csprojAssemblyReference.cache
+C:\Users\mar_v\Downloads\TpIntegrador\obj\Debug\TpIntegrador.csproj.CoreCompileInputs.cache
+C:\Users\mar_v\Downloads\TpIntegrador\obj\Debug\TpIntegrador.exe
+C:\Users\mar_v\Downloads\TpIntegrador\obj\Debug\TpIntegrador.pdb
+C:\Users\Santi\Desktop\C#\Proyectos de la clase\TP - 11 Nov\TpIntegrador\bin\Debug\TpIntegrador.exe.config
+C:\Users\Santi\Desktop\C#\Proyectos de la clase\TP - 11 Nov\TpIntegrador\bin\Debug\TpIntegrador.exe
+C:\Users\Santi\Desktop\C#\Proyectos de la clase\TP - 11 Nov\TpIntegrador\bin\Debug\TpIntegrador.pdb
+C:\Users\Santi\Desktop\C#\Proyectos de la clase\TP - 11 Nov\TpIntegrador\obj\Debug\TpIntegrador.csprojAssemblyReference.cache
+C:\Users\Santi\Desktop\C#\Proyectos de la clase\TP - 11 Nov\TpIntegrador\obj\Debug\TpIntegrador.csproj.CoreCompileInputs.cache
+C:\Users\Santi\Desktop\C#\Proyectos de la clase\TP - 11 Nov\TpIntegrador\obj\Debug\TpIntegrador.exe
+C:\Users\Santi\Desktop\C#\Proyectos de la clase\TP - 11 Nov\TpIntegrador\obj\Debug\TpIntegrador.pdb
